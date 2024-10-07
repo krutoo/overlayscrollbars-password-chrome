@@ -1,0 +1,20 @@
+{
+  "name": "overlayscrollbars-password-chrome",
+  "type": "module",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "rsbuild dev --open"
+  },
+  "dependencies": {
+    "overlayscrollbars-react": "^0.5.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@rsbuild/core": "^1.0.10",
+    "@rsbuild/plugin-react": "^1.0.3",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.6.2"
+  }
+}
